@@ -1,0 +1,3 @@
+x=int(input('ENTER THE VALUE : '))
+if x==0:print('ZERO')
+else:print('NOT DEFINED')
